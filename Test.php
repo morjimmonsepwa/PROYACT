@@ -5,6 +5,6 @@
     <title>PROYACT</title>
   </head>
   <body>
-  <p>Se debe realizar un repositorio en git, con el nombre PROYACT </p>
+  <p>Realizar un repositorio en git, con el nombre PROYACT.</p>
   </body>
 </html>
